@@ -29,11 +29,11 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
-# search_enabled: true
+search_enabled: true
 
-# ga_tracking: UA-142757552-1
+ga_tracking: UA-142757552-1
 
-# color_scheme: "dark"
+color_scheme: nil
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
