@@ -1,4 +1,19 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300,400,400italic);
+@import url('//fonts.googleapis.com/css?family=Stylish&display=swap');
+
 $link-color: $blue-000;
+
+body {
+  font-family: 'Open Sans' !important;
+}
+
+a.site-title {
+  color: #222 !important;
+  font-weight: bold;
+  font-size: 28px !important;
+  font-family: 'Stylish', sans-serif;
+  text-align: center;
+}
 
 footer.site-footer{
   p {
