@@ -5,4 +5,4 @@ permalink: /about/
 nav_order: 9
 ---
 
-This is the about page
+hiya [That's me](http://chrisveleris.com)
